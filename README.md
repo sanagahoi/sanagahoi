@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sapna Gupta
+Hi 👋![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sapna Gupta
 ===================================================================================================================================
 
 Full Stack Developer and Data Scientist
@@ -29,7 +29,7 @@ I am a passionate full stack developer and data scientist !
 
 <a href="http://www.github.com/sanagahoi"><img src="https://github-readme-stats.vercel.app/api?username=sanagahoi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=false&show_icons=true" alt="sanagahoi's GitHub stats" /></a>
 
-<a href="http://www.github.com/sanagahoi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanagahoi&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/sanagahoi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanagahoi&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" /></a>
 
 <a href="http://www.github.com/sanagahoi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanagahoi&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
