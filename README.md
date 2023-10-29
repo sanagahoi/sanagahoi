@@ -6,10 +6,10 @@ Full Stack Developer and Data Scientist
 
 I am a passionate full stack developer and data scientist !
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://olympus.mygreatlearning.com/eportfolio)
-* ✉️  You can contact me at [sapnag255@gmail.coom](mailto:sapnag255@gmail.coom)
-* 🧠  I'm learning JavaScipt
+* 🌍  From India
+* 🖥️  See [My Portfolio](http://olympus.mygreatlearning.com/eportfolio)
+* ✉️  Contact me at [sapnag255@gmail.coom](mailto:sapnag255@gmail.coom)
+* 🧠  I'm  currently learning JavaScipt
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
