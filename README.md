@@ -27,10 +27,10 @@ I am a passionate full stack developer and data scientist !
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sanagahoi"><img src="https://github-readme-stats.vercel.app/api?username=sanagahoi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="sanagahoi's GitHub stats" /></a>
+<a href="http://www.github.com/sanagahoi"><img src="https://github-readme-stats.vercel.app/api?username=sanagahoi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=false&show_icons=true" alt="sanagahoi's GitHub stats" /></a>
 
 <a href="http://www.github.com/sanagahoi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanagahoi&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/sanagahoi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanagahoi&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sanagahoi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanagahoi&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sanagahoi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanagahoi&langs_count=10&title_color=3382ed&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sanagahoi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanagahoi&langs_count=10&title_color=3382ed&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
