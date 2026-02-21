@@ -2,7 +2,7 @@ Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 ## My experience:
-* Allsoft Solutions| Trainer and Data Scientist
+* Allsoft Solutions | Trainer and Data Scientist |
 ---------------------------------------
 
 * 🌍  I'm based in India
