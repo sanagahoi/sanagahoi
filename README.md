@@ -3,13 +3,13 @@ Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer and Data Scientist
 ---------------------------------------
-
-I am a passionate full stack developer and data scientist !
+##My experience:
+* Allsoft Solutions| Trainer and Data Scientist
 
 * 🌍  I'm based in India
 * 🖥️  See [My Portfolio](https://olympus.mygreatlearning.com/eportfolio)
 * ✉️  Contact me at [sapnag255@gmail.coom](mailto:sapnag255@gmail.coom)
-* 🧠  Currently learning JavaScipt
+* 🧠  Currently learning AI
 * 🤝  Open to collaborating on Projects
 
 ### Tech Skills
