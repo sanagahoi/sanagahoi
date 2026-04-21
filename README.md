@@ -12,7 +12,7 @@ Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  Open to collaborating on Projects
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p >
 <a href="https://linkedin.com/in/www.linkedin.com/in/sgds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sgds" height="30" width="40" /></a>
 </p>
 
