@@ -6,7 +6,7 @@ Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See [My Portfolio](https://olympus.mygreatlearning.com/eportfolio)
+* 🖥️  See [My Portfolio](https://sapna-portfolio-nu.vercel.app/)
 * ✉️  Contact me at [sapnag255@gmail.coom](mailto:sapnag255@gmail.coom)
 * 🧠  Currently learning AI
 * 🤝  Open to collaborating on Projects
