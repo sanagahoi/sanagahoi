@@ -8,7 +8,7 @@ Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in India
 * 🖥️  See [my Professional Portfolio](https://sapna-portfolio-nu.vercel.app/) and [Academic e-portfolio](https://eportfolio.mygreatlearning.com/sapna-gupta2)
 * ✉️  Contact me at [sapnag255@gmail.coom](mailto:sapnag255@gmail.coom)
-* 🧠  Currently learning AI
+* 🧠  Currently learning Gen AI and Agentic AI
 * 🤝  Open to collaborating on Projects
 
 <h3 align="left">Connect with me:</h3>
